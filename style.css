@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(127, 241, 214);
+}
+
+#score{
+    font-size: 22px;
+    margin-left: 40px;
+}
+
+#timer{
+    font-size: 22px;
+    float: right;
+    margin-right: 70px;
+}
+
+#draw_sketch{
+    font-size: 25px;
+    color: rgb(228, 15, 203);
+}
+
+.heading button{
+    float: right; 
+    font-size: medium;  
+   }
+
+   h1{
+    background-color: antiquewhite;
+   }
+
+   #your_sketch{
+    font-size: 25px;
+    
+}
+
+#confidence{
+    font-size: 25px;
+    
+}
